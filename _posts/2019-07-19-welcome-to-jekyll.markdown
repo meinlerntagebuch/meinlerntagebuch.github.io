@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Willkommen auf meinen Lerntagebuch!"
+title:  "Willkommen!"
 date:   2019-07-19 02:04:45 +0200
 categories: jekyll update
 ---
